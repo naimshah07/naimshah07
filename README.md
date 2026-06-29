@@ -12,7 +12,7 @@
 
 <!-- Profile Views - komarev is very reliable -->
 ![Profile Views](https://komarev.com/ghpvc/?username=IshaCodes04&color=a855f7&style=for-the-badge&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/IshaCodes04?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/IshaCodes04)
+[![GitHub followers](https://img.shields.io/github/followers/IshaCodes04?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/naimshah04)
 
 </div>
 
