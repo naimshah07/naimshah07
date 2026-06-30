@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=Software+Engineer+🚀;Full-Stack+Developer+💻;Frontend+%7C+Backend+⚡;UI%2FUX+Designer+🎨;Responsive+Web+Design+🌐;React+%7C+Node.js+%7C+Express+⚛️;MongoDB+%7C+SQL+📦;Clean+Code+%7C+Modern+UI+✨;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+💻;Frontend+%7C+Backend+⚡;UI%2FUX+Designer+🎨;Responsive+Web+Design+🌐;React+%7C+Node.js+%7C+Express+⚛️;MongoDB+%7C+SQL+📦;Clean+Code+%7C+Modern+UI+✨;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
 <br/><br/>
 
 <!-- Profile Views - komarev is very reliable -->
