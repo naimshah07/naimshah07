@@ -110,13 +110,13 @@
 
 <br/>
 
-<!-- Snake - will work after workflow runs successfully -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naimshah07/naimshah07/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naimshah07/naimshah07/output/github-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/naimshah07/naimshah07/output/github-snake-dark.svg" />
 </picture>
 
+---
 </div>
 
 ---
