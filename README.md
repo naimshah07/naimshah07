@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Typing Animation - herokuapp version -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=620&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer+in+Progress+%F0%9F%92%BB;Exploring+AI+%26+LLMs+%F0%9F%A4%96;Building+Real-Time+Systems+%E2%9A%A1;Microservices+%26+Blockchain+Learner+%F0%9F%94%97;RAG+%7C+MCP+%7C+GenAI+Explorer+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=620&lines=Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer+in+Progress+%F0%9F%92%BB;Exploring+AI+%26+LLMs+%F0%9F%A4%96;Building Websites%E2%9A%A1;Products+%26+%F0%9F%94%97;RAG+%7C+MCP+%7C+Apps+%F0%9F%A7%A0" alt="Typing SVG" />
 
 <br/><br/>
 
