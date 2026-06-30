@@ -35,15 +35,15 @@
 <br/>
 
 <!-- shields.io badges - 100% reliable -->
-![Full-Stack](https://img.shields.io/badge/Full--Stack%20Dev-Learning-7c3aed?style=for-the-badge&labelColor=1a1a2e)
-![DSA Java](https://img.shields.io/badge/DSA%20with%20Java-Practicing-7c3aed?style=for-the-badge&labelColor=1a1a2e)
-![Microservices](https://img.shields.io/badge/Microservices-Exploring-a855f7?style=for-the-badge&labelColor=1a1a2e)
-![DevOps](https://img.shields.io/badge/DevOps%20%26%20Docker-Learning-a855f7?style=for-the-badge&labelColor=1a1a2e)
-![Blockchain](https://img.shields.io/badge/Blockchain-Fundamentals-c026d3?style=for-the-badge&labelColor=1a1a2e)
-![GenAI](https://img.shields.io/badge/GenAI%20%26%20LLMs-Exploring-c026d3?style=for-the-badge&labelColor=1a1a2e)
-![RAG](https://img.shields.io/badge/RAG-Learning-e879f9?style=for-the-badge&labelColor=1a1a2e)
-![MCP](https://img.shields.io/badge/MCP%20Servers-Exploring-e879f9?style=for-the-badge&labelColor=1a1a2e)
-![SocketIO](https://img.shields.io/badge/Real--Time%20Socket.IO-Building-7c3aed?style=for-the-badge&labelColor=1a1a2e)
+![Full-Stack](https://img.shields.io/badge/Full--Stack%20Development-Learning-7c3aed?style=for-the-badge&labelColor=1a1a2e)
+![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript-a855f7?style=for-the-badge&labelColor=1a1a2e)
+![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-c026d3?style=for-the-badge&labelColor=1a1a2e)
+![Database](https://img.shields.io/badge/Database-MongoDB%20%7C%20SQL-e879f9?style=for-the-badge&labelColor=1a1a2e)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Designing-7c3aed?style=for-the-badge&labelColor=1a1a2e)
+![Responsive](https://img.shields.io/badge/Responsive-Web%20Design-a855f7?style=for-the-badge&labelColor=1a1a2e)
+![REST API](https://img.shields.io/badge/REST%20APIs-Building-c026d3?style=for-the-badge&labelColor=1a1a2e)
+![Git](https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-e879f9?style=for-the-badge&labelColor=1a1a2e)
+![Deployment](https://img.shields.io/badge/Deployment-Vercel%20%26%20Render-7c3aed?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
