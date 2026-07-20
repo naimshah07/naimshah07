@@ -22,7 +22,7 @@
 
 </div>
 
-> 💜 *"Code is poetry written in logic — and I'm just getting started."*
+> 🧡 *"Code is poetry written in logic — and I'm just getting started."*
 
 🎓 **Third Year BCA Student** &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **UI/UX Designer**
 
