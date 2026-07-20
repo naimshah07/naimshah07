@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Capsule Render Header - very reliable -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:7c3aed,100:c026d3&height=220&section=header&text=Naim%20Shah&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%UI/UXDesigner%20%E2%9C%A6%20Builder&descAlignY=58&descAlign=50&descSize=18&descColor=e9d5ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0B0B,50:E85335,100:6B1A0D&height=220&section=header&text=Naim%20Shah&fontSize=72&fontColor=F9F9F9&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%UI/UXDesigner%20%E2%9C%A6%20Builder&descAlignY=58&descAlign=50&descSize=18&descColor=F9F9F9" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+💻;Frontend+%7C+Backend+⚡;UI%2FUX+Designer+🎨;Responsive+Web+Design+🌐;React+%7C+Node.js+%7C+Express+⚛️;MongoDB+%7C+SQL+📦;Clean+Code+%7C+Modern+UI+✨;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=E85335&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+💻;Frontend+%7C+Backend+⚡;UI%2FUX+Designer+🎨;Responsive+Web+Design+🌐;React+%7C+Node.js+%7C+Express+⚛️;MongoDB+%7C+SQL+📦;Clean+Code+%7C+Modern+UI+✨;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
 <br/><br/>
 
 <!-- Profile Views - komarev is very reliable -->
-![Profile Views](https://komarev.com/ghpvc/?username=IshaCodes04&color=a855f7&style=for-the-badge&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/IshaCodes04?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/naimshah04)
+![Profile Views](https://komarev.com/ghpvc/?username=IshaCodes04&color=E85335&style=for-the-badge&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/IshaCodes04?style=for-the-badge&color=E85335&labelColor=211E1D&label=Followers)](https://github.com/naimshah04)
 
 </div>
 
@@ -35,15 +35,15 @@
 <br/>
 
 <!-- shields.io badges - 100% reliable -->
-![Full-Stack](https://img.shields.io/badge/Full--Stack%20Development-Learning-7c3aed?style=for-the-badge&labelColor=1a1a2e)
-![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript-a855f7?style=for-the-badge&labelColor=1a1a2e)
-![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-c026d3?style=for-the-badge&labelColor=1a1a2e)
-![Database](https://img.shields.io/badge/Database-MongoDB%20%7C%20SQL-e879f9?style=for-the-badge&labelColor=1a1a2e)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Designing-7c3aed?style=for-the-badge&labelColor=1a1a2e)
-![Responsive](https://img.shields.io/badge/Responsive-Web%20Design-a855f7?style=for-the-badge&labelColor=1a1a2e)
-![REST API](https://img.shields.io/badge/REST%20APIs-Building-c026d3?style=for-the-badge&labelColor=1a1a2e)
-![Git](https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-e879f9?style=for-the-badge&labelColor=1a1a2e)
-![Deployment](https://img.shields.io/badge/Deployment-Vercel%20%26%20Render-7c3aed?style=for-the-badge&labelColor=1a1a2e)
+![Full-Stack](https://img.shields.io/badge/Full--Stack%20Development-Learning-E85335?style=for-the-badge&labelColor=211E1D)
+![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript-E85335?style=for-the-badge&labelColor=211E1D)
+![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-E85335?style=for-the-badge&labelColor=211E1D)
+![Database](https://img.shields.io/badge/Database-MongoDB%20%7C%20SQL-E85335?style=for-the-badge&labelColor=211E1D)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Designing-E85335?style=for-the-badge&labelColor=211E1D)
+![Responsive](https://img.shields.io/badge/Responsive-Web%20Design-E85335?style=for-the-badge&labelColor=211E1D)
+![REST API](https://img.shields.io/badge/REST%20APIs-Building-E85335?style=for-the-badge&labelColor=211E1D)
+![Git](https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-E85335?style=for-the-badge&labelColor=211E1D)
+![Deployment](https://img.shields.io/badge/Deployment-Vercel%20%26%20Render-E85335?style=for-the-badge&labelColor=211E1D)
 
 </div>
 
@@ -79,9 +79,9 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=IshaCodes04&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=IshaCodes04&theme=aura&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaCodes04&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=IshaCodes04&theme=radical&hide_border=true&bg_color=0C0B0B&title_color=E85335&icon_color=E85335&text_color=F9F9F9&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=IshaCodes04&theme=dark&hide_border=true&bg_color=0C0B0B&border=E85335&fire=E85335&currStreakNum=F9F9F9&sideNums=F9F9F9&currStreakLabel=E85335&sideLabels=E85335&dates=F9F9F9)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaCodes04&theme=radical&hide_border=true&bg_color=0C0B0B&title_color=E85335&icon_color=E85335&text_color=F9F9F9&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -98,7 +98,7 @@
 <br/>
 
 <!-- activity graph - vercel hosted, reliable -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naimshah07&bg_color=0d1117&color=c084fc&line=7c3aed&point=e9d5ff&area=true&area_color=7c3aed&hide_border=true&radius=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naimshah07&bg_color=0C0B0B,%20Surface%20#211E1D,%20Accent%20#E85335,%20Dark%20Accent%20#6B1A0D,%20Text%20#F9F9F9&color=E85335&line=7c3aed&point=e9d5ff&area=true&area_color=7c3aed&hide_border=true&radius=8" />
 
 </div>
 
@@ -132,7 +132,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naimshah07an/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/naimshah_07)
-[![Instagram](https://img.shields.io/badge/Instagram-%23c026d3.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.instagram.com/naimshah_07)
+[![Instagram](https://img.shields.io/badge/Instagram-E85335?style=for-the-badge&logo=firefox&logoColor=white)](https://www.instagram.com/naimshah_07)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naimshah7755@gmail.com)
 
 <br/>
@@ -141,6 +141,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a1d96,100:7c3aed&height=130&section=footer&text=Keep+Building+%F0%9F%9A%80&fontSize=20&fontColor=e9d5ff&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0B0B,40:6B1A0D,100:E85335&height=130&section=footer&text=Keep+Building+%F0%9F%9A%80&fontSize=20&fontColor=F9F9F9&animation=twinkling&fontAlignY=65" />
 
 </div>
